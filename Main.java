@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public  class Main {
+public  class Calculyator {
     static Scanner sc = new Scanner(System.in);
 // Метод main() - должен считывать 2 числа (с помощью getInt()), считать операцию (с помощью getOperation(),
 //        передать все методу calc() и вывести на экран результат.
