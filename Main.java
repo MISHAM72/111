@@ -38,8 +38,6 @@ public static int calc(int num1, int num2, char operation){
             result = calc(num1, num2, operation);
         }
     }
-
         return result;
    }
-
-    }
+ }
