@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.HashMap;
 public  class Main {
     static Scanner sc = new Scanner(System.in);
 // Метод main() - должен считывать 2 числа (с помощью getInt()), считать операцию (с помощью getOperation(),
