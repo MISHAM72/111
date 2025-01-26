@@ -17,10 +17,6 @@ public static int getInt (){
     int num = sc.nextInt();
     return num;
 }
-
-
-
-
 // Метод char getOperation() - должен считывать с консоли какое-то значение и возвращать
    // символ с операцией (+, -, * или /)
     public static char getOperation(){
